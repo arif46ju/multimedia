@@ -1,0 +1,171 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, lenovo
+UComments: "2021-2-18: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 287 -1022133866 13793]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613585852
+ModificationTime: 1613592460
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2403 27 9
+Grid
+145 579 m 0
+ 147.585869683 578.797973633 149.929348416 577.989868164 153 579 c 0
+ 167 585 l 1025
+  Spiro
+    145 579 {
+    147.538 578.686 o
+    150.139 578.506 o
+    153 579 ]
+    167 585 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+BeginChars: 65536 2
+
+StartChar: uni0994
+Encoding: 2452 2452 0
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+355 645 m 25
+ 766 654 l 1053
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 2453 2453 1
+Width: 1000
+InSpiro: 1
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+464 511 m 1
+ 468 502 l 0
+ 468 500 l 1025
+  Spiro
+    464 511 {
+    468 502 o
+    468 500 v
+    0 0 z
+  EndSpiro
+464 511 m 25
+ 314 360 l 25
+ 328 336 l 25
+ 486 306 l 25
+ 468 500 l 1049
+  Spiro
+    464 511 {
+    314 360 v
+    328 336 v
+    486 306 v
+    468 500 v
+    0 0 z
+  EndSpiro
+511 435 m 0
+ 523 255 l 0
+ 289 315 l 0
+ 268 348 l 0
+ 427 522 l 0
+ 133 525 l 0
+ 130.366 526.729 l 0
+ 128.013 528.445 l 0
+ 127 531 l 0
+ 134.798 547.794 l 0
+ 140.776 567.439 l 0
+ 156 585 l 0
+ 784 582 l 0
+ 760 519 l 0
+ 508 525 l 0
+ 508 492 l 0
+ 524 486 l 0
+ 558 471 l 0
+ 580 460 l 0
+ 609 442 l 0
+ 634 420 l 0
+ 649 392 l 0
+ 647 330 l 0
+ 632 324 l 0
+ 618 336 l 0
+ 613 346 l 0
+ 609 360 l 0
+ 590 391 l 0
+ 571 406 l 0
+ 544 424 l 0
+ 511 435 l 1024
+  Spiro
+    511 435 {
+    523 255 v
+    289 315 v
+    268 348 v
+    427 522 v
+    133 525 [
+    130.366 526.729 o
+    128.013 528.445 o
+    127 531 o
+    134.798 547.794 v
+    140.776 567.439 [
+    156 585 o
+    784 582 v
+    760 519 [
+    508 525 v
+    508 492 v
+    524 486 v
+    558 471 v
+    580 460 v
+    609 442 v
+    634 420 v
+    649 392 v
+    647 330 v
+    632 324 o
+    618 336 v
+    613 346 v
+    609 360 v
+    590 391 v
+    571 406 o
+    544 424 o
+    511 435 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
